@@ -15,7 +15,7 @@
     "license": "Apache 2",
     "autoload": {
         "psr-4": {
-            "Xeois\\LaravelGrid\\": "src/"
+            "LaravelGrid\\": "src/"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelGri\Grid;
+namespace LaravelGrid;
 
 use Illuminate\Support\Facades\Facade;
 
