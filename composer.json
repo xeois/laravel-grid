@@ -1,0 +1,21 @@
+{
+    "name": "xeois/laravel-grid",
+    "description": "Basic Bootstrap Grid for Laravel",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your-email@example.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2.5",
+        "twbs/bootstrap": "^4.5"
+    },
+    "license": "Apache 2",
+    "autoload": {
+        "psr-4": {
+            "Xeois\\LaravelGrid\\": "src/"
+        }
+    }
+}
